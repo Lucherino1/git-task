@@ -15,3 +15,7 @@ const user: Sosi = {
 };
 
 console.log(user);
+
+function mySuper(str: string): void {
+  console.log(str);
+}
